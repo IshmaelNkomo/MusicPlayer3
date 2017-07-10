@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#48565B</color>
+    <color name="colorAccent">#FEDC10</color>
+    <color name="bgk_color">#263238</color>
+
+    <color name="category_Music">#263238</color>
+</resources>
